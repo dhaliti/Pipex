@@ -1,4 +1,4 @@
-# pipex
+# Pipex
   pipex: reproduce the shell's pipe 
   
 ### Discription of mandatory part
