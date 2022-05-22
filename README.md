@@ -1,6 +1,6 @@
 # Pipex
 
-This project aims to develop two well-known concepts: redirections and pipes.
+The aim of this project is to introduce two well-known concepts: redirections and pipes.
   
 ### Discription of mandatory part
 The program ```pipex``` should repeat the behaviour of the following shell command
