@@ -1,14 +1,15 @@
 # Pipex
-  pipex: reproduce the shell's pipe 
+
+This project aims to develop two well-known concepts: redirections and pipes.
   
 ### Discription of mandatory part
-The program ```pipex``` should repeat the behaviour of the next shell command
+The program ```pipex``` should repeat the behaviour of the following shell command
 
 ```c
  < file1 cmd1 | cmd2 > file2 
  ```
 
-and looks like this:
+It takes four arguments and looks like this:
 
 ```c
 ./pipex file1 cmd1 cmd2 file2 
